@@ -1,14 +1,17 @@
-# SEO Service Template
-
-A responsive HTML template designed for SEO agencies, digital marketers services providers.  
-Built with clean code and optimized layout to ensure fast performance and easy customization.
 
 ---
 
-## 🌟 Features
-- Fully responsive design
-- Clean and modern layout
-- Easy to customize (HTML + CSS)
-- Free to use under the MIT License
+## 📜 License
+This project is licensed under the **MIT License** — free to use, modify, and share.
 
 ---
+
+## 👨‍💻 Author
+**Awais Javeed**  
+GitHub: [@awais985](https://github.com/awais985)
+
+---
+
+### 💬 Note
+As this is my first template, your feedback is really valuable!  
+If you like this or have ideas to improve it, feel free to share them.
